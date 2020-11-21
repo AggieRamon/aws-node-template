@@ -1,0 +1,9 @@
+{
+    "request": {
+            "userAttributes": {
+                    "given_name": "Anakin",
+                    "family_name": "Skywalker",
+                    "email": "dvader@sith.com"
+            }
+    }
+}

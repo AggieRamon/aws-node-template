@@ -1,0 +1,16 @@
+{
+  "name": "aggieramon-node-template",
+  "version": "1.0.0",
+  "description": "Serverless Framework AWS NodeJs template extended from aws-nodejs",
+  "main": "serverless.yml",
+  "scripts": {
+    "test": "sls print"
+  },
+  "author": "Ramon Ramon",
+  "license": "ISC",
+  "devDependencies": {
+    "aws-sdk": "^2.797.0",
+    "serverless-bundle": "^4.0.1",
+    "serverless-pseudo-parameters": "^2.5.0"
+  }
+}
