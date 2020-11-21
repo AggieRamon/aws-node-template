@@ -22,7 +22,7 @@ functions:
                 handler: functions/lambdaFunction.handler
                 events:
                         - http:
-                                path: /mypath
+                                path: mypath
                                 method: get
 
 custom:
