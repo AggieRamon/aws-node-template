@@ -1,3 +1,6 @@
-# Custom template extended from aws-nodejs
+# Introduction
+Serverless framework template that was extended from aws-nodejs
 
-## Instructions
+## Install
+`sls create --template-url https://github.com/AggieRamon/aws-node-template.git --path myService`
+`npm install` in the created directory to install dependencies
